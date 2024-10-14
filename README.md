@@ -3,5 +3,7 @@ A deep learning algorithm for the segmentation of retinal Optical Coherence Tomo
 
 
 ## Dataset
-The DRIVE: Digital Retinal Images for Vessel Extraction dataset [Link Text](https://drive.grand-challenge.org/DRIVE/)
+The DRIVE: Digital Retinal Images for Vessel Extraction dataset [dataset](https://drive.grand-challenge.org/DRIVE/).
+The datasets is publilicly available and composed of 40 high res images for retinal vessel segmentation.
+
 
